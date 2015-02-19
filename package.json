@@ -1,0 +1,11 @@
+{
+  "name": "soc",
+  "version": "1.0.0",
+  "description": "Settlers of Catan on node.js",
+  "dependencies": {
+    "express": "^4.10.2",
+    "mysql": "^2.5.4",
+    "node-uuid": "^1.4.2",
+    "socket.io": "^1.2.1"
+  }
+}

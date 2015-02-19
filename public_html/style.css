@@ -1,0 +1,152 @@
+/* Game screen structure */
+html, body{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background: url('img/seabg.png');
+    padding: 0;
+    margin: 0;
+}
+canvas {
+    position: absolute;
+    left: 0;
+    right: 300px;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+}
+div#gamePanel {
+    width: 280px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    overflow-y: scroll;
+    padding: 10px;
+    color: rgba(255,255,255,0.95);
+    background: rgb(75,75,75);
+    background-image: url('img/lshadow.png');
+    background-repeat: repeat-y;
+}
+
+input[name=existing] {
+    width: 300px;
+}
+
+div#debug {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 300px;
+    height: 50px;
+    background: black;
+    color: white;
+    opacity: 0.5;
+    overflow: hidden;
+    z-index: 1000;
+    padding: 5px;
+    font-family: monospace;
+    font-size: 10px;
+}
+
+div#loading {
+    position: absolute;
+    z-index:10000;
+    background: rgba(0,0,0,0.75);
+    color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-top: 10%;
+    font-family: monospace;
+}
+div#loading h1 {
+    text-align: center;
+}
+
+.floatingBox {
+    position: absolute;
+    padding: 20px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.25);
+    background: white;
+    margin: 50px auto;
+}
+
+div#gameSetup {
+    width: 460px;
+    left: 50%;
+    margin-left: -250px;
+    z-index: 5000;
+}
+div#gameSetup h1 {
+    margin: 0 0 10px 0;
+}
+div#gameSetup h3 {
+    margin: 0;
+}
+
+div#gauth {
+    width: 460px;
+    left: 50%;
+    margin-left: -250px;
+    z-index: 5001;
+    text-align: center;
+}
+a.gplus {
+    display: inline-block;
+    background: url('img/gplus.png') no-repeat;
+    width: 394px;
+    height: 84px;
+    color: rgba(0,0,0,0);
+}
+a.gplus:hover {
+    background: url('img/gplus_hover.png') no-repeat;
+}
+
+
+/* cards */
+div.card-slot {
+    margin: 0 0 0 0;
+    clear: both;
+    overflow-x: visible;
+    overflow-y: hidden;
+    max-height: 155px;
+}
+div.card-slot div.card {
+    height: 150px;
+    width: 15px;
+    float: left;
+    margin: 5px 0 0 0;
+}
+div.card-slot div.card:last-child {
+    width: 94px;
+}
+div.card-slot.lumber div.card {
+    background: url('img/res_lumber.png') no-repeat;
+}
+div.card-slot.wool div.card {
+    background: url('img/res_wool.png') no-repeat;
+}
+div.card-slot.ore div.card {
+    background: url('img/res_ore.png') no-repeat;
+}
+div.card-slot.grain div.card {
+    background: url('img/res_grain.png') no-repeat;
+}
+div.card-slot.brick div.card {
+    background: url('img/res_brick.png') no-repeat;
+}
+div.card div.quantity {
+    color: white;
+    height: 150px;
+    line-height: 250px;
+    text-align: right;
+    font-size: 32px;
+    text-shadow: -1px -1px 0 rgba(0,0,0,0.5), 1px -1px 0 rgba(0,0,0,0.5), -1px 1px 0 rgba(0,0,0,0.5), 1px 1px 0 rgba(0,0,0,0.5);
+    padding-right: 15px;
+}

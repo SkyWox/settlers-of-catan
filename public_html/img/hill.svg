@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 238.11005 206.21001" enable-background="new 0 0 238.11005 206.21001" xml:space="preserve">
+<g id="Brick">
+	<g>
+		<polygon fill="#F1F2F2" stroke="#D1D3D4" stroke-width="0.5" points="59.52759,206.20999 0.00019,103.1045 59.52759,0 
+			178.58229,0 238.10959,103.1045 178.58229,206.20999 		"/>
+		<g>
+			<defs>
+				<polygon id="SVGID_11_" points="66.61349,193.93559 14.17399,103.1045 66.61349,12.2744 171.49629,12.2744 223.93768,103.1045 
+					171.49629,193.93559 				"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_11_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_4_)">
+				<g>
+					<rect x="97.79507" y="88.93169" fill="none" stroke="#9C3B1D" stroke-width="70.8661" width="42.5196" height="28.3457"/>
+					<rect x="97.79507" y="88.93169" fill="none" stroke="#872C12" stroke-width="42.5197" width="42.5196" height="28.3457"/>
+					<rect x="97.79507" y="88.93169" fill="#600B00" width="42.5196" height="28.3457"/>
+					<rect x="97.79507" y="88.93169" fill="none" stroke="#752104" stroke-width="14.1732" width="42.5196" height="28.3457"/>
+				</g>
+				<g>
+					<rect x="-1.41765" y="88.93169" fill="none" stroke="#9C3B1D" stroke-width="70.8661" width="42.5195" height="28.3457"/>
+					<rect x="-1.41765" y="88.93169" fill="none" stroke="#872C12" stroke-width="42.5197" width="42.5195" height="28.3457"/>
+					<rect x="-1.41765" y="88.93169" fill="#600B00" width="42.5195" height="28.3457"/>
+					<rect x="-1.41765" y="88.93169" fill="none" stroke="#752104" stroke-width="14.1732" width="42.5195" height="28.3457"/>
+				</g>
+				<g>
+					<rect x="197.00801" y="88.93169" fill="none" stroke="#9C3B1D" stroke-width="70.8661" width="42.5196" height="28.3457"/>
+					<rect x="197.00801" y="88.93169" fill="none" stroke="#872C12" stroke-width="42.5197" width="42.5196" height="28.3457"/>
+					<rect x="197.00801" y="88.93169" fill="#600B00" width="42.5196" height="28.3457"/>
+					<rect x="197.00801" y="88.93169" fill="none" stroke="#752104" stroke-width="14.1732" width="42.5196" height="28.3457"/>
+				</g>
+				<g>
+					<rect x="48.18965" y="3.8926" fill="none" stroke="#9C3B1D" stroke-width="70.8661" width="42.5195" height="28.3457"/>
+					<rect x="48.18965" y="3.8926" fill="none" stroke="#872C12" stroke-width="42.5197" width="42.5195" height="28.3457"/>
+					<rect x="48.18965" y="3.8926" fill="#600B00" width="42.5195" height="28.3457"/>
+					<rect x="48.18965" y="3.8926" fill="none" stroke="#752104" stroke-width="14.1732" width="42.5195" height="28.3457"/>
+				</g>
+				<g>
+					<rect x="147.4026" y="3.8926" fill="none" stroke="#9C3B1D" stroke-width="70.8661" width="42.5195" height="28.3457"/>
+					<rect x="147.4026" y="3.8926" fill="none" stroke="#872C12" stroke-width="42.5197" width="42.5195" height="28.3457"/>
+					<rect x="147.4026" y="3.8926" fill="#600B00" width="42.5195" height="28.3457"/>
+					<rect x="147.4026" y="3.8926" fill="none" stroke="#752104" stroke-width="14.1732" width="42.5195" height="28.3457"/>
+				</g>
+				<g>
+					<rect x="48.18965" y="173.97169" fill="none" stroke="#9C3B1D" stroke-width="70.8661" width="42.5195" height="28.3457"/>
+					<rect x="48.18965" y="173.97169" fill="none" stroke="#872C12" stroke-width="42.5197" width="42.5195" height="28.3457"/>
+					<rect x="48.18965" y="173.97169" fill="#600B00" width="42.5195" height="28.3457"/>
+					<rect x="48.18965" y="173.97169" fill="none" stroke="#752104" stroke-width="14.1732" width="42.5195" height="28.3457"/>
+				</g>
+				<g>
+					<rect x="147.4026" y="173.97169" fill="none" stroke="#9C3B1D" stroke-width="70.8661" width="42.5195" height="28.3457"/>
+					<rect x="147.4026" y="173.97169" fill="none" stroke="#872C12" stroke-width="42.5197" width="42.5195" height="28.3457"/>
+					<rect x="147.4026" y="173.97169" fill="#600B00" width="42.5195" height="28.3457"/>
+					<rect x="147.4026" y="173.97169" fill="none" stroke="#752104" stroke-width="14.1732" width="42.5195" height="28.3457"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
